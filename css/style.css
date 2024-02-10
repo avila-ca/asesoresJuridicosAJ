@@ -1,0 +1,9 @@
+body{
+    font-family: 'Droid Serif', serif;;
+}
+#logo{
+    width: 18em;
+}
+main{
+    background-image: linear-gradient(#e6e6e6, #edeff2) ;
+}
