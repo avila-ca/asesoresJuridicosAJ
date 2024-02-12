@@ -29,10 +29,10 @@ const headerComponent = `
           <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#areas">Areas de trabajo</a>
+          <a class="nav-link" href="index.html#areas">Areas de trabajo</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#areas">Particulares</a>
+          <a class="nav-link" href="particulares.html">Particulares</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Trámites</a>
